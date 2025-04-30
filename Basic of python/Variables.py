@@ -13,4 +13,18 @@ a = 1
 b = float (a)
 print(type(b))
 
-print(message)
+print(message.split())
+
+
+temp = message.split()
+
+
+for i in temp:
+    print(i)
+    
+    
+    
+    
+    
+    
+    
