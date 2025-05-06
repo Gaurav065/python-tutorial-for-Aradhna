@@ -33,3 +33,9 @@ print(first_name.lstrip())
     
     
 # input(full_name)
+
+a = "hello world"
+print(f'{a}, i am learning the use of f-strings')
+
+
+# print(r'C:\Users\LENOVO\Documents\work\python tutorial for Aradhna\strings\longest_word.py')

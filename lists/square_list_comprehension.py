@@ -22,3 +22,21 @@ print(a)
 # print(squares)
 
 # max().min().sum()
+
+
+# *
+# **
+# ***
+# ****
+# *****
+
+row = 1
+
+
+for row in range(6): 
+    column = 1 
+    for column in range(row): 
+        print("*", end ="")
+        column+= 1
+    print()
+    row += 1
