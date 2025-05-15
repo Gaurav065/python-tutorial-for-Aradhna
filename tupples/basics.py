@@ -6,7 +6,7 @@
 
 t1 = (1,2,3,4,5)
 
-
+t3 = ('a', 'b', 'c', 'd', 'e')
 l1 = list(t1)
 
 print(type(l1), l1)
@@ -22,3 +22,16 @@ print(type(l1), l1)
 # set
 # tuple
 # bool
+t2 = (1, 2.5, 'hello', [1, 2, 3], {'key': 'value'}, {1, 2, 3}, (4, 5), True)
+
+
+print(t1[-1])
+
+
+print(t1+t3)
+
+print(t1*2)
+
+
+t1.count(1)
+print(t1.index(5))
