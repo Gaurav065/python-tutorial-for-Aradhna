@@ -1,1 +1,5 @@
-this is a tutorial on how to create and initialize a file with some content 
+Alice , Math, 85
+Bob , Science , 78
+Charlie , Math , 92
+David , English , 88
+Eva , Science , 95
